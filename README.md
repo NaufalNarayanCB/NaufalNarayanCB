@@ -42,6 +42,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NaufalNarayanCB/NaufalNarayanCB/output/snake.svg" alt="Snake animation" />
+![cacing](./github-user-contribution.svg)
 
 ###
